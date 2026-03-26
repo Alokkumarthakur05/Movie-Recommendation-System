@@ -1,5 +1,6 @@
 🎬 Movie Recommender System
 
+
 A Movie Recommendation System built using Python, Machine Learning, and Streamlit that suggests similar movies based on content similarity.
 The system uses a content-based filtering approach and integrates the TMDB API to display movie posters, ratings, release dates, and descriptions.
 
